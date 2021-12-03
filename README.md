@@ -6,7 +6,6 @@ ___Frontend Developer___ 🙋‍♀️ Lee Jiwon 📄 [이력서](https://rural-
 
 <img src="https://img.shields.io/badge/-javascript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/-typescript-blue?style=flat-square&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/-React-skyblue?style=flat-square&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/-Next.js-lightgrey?style=flat-square&logo=Next.js&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS-green?style=flat-square&logo=CSS3&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/-apollo-blueviolet?style=flat-square&logo=Apollo GraphQL&logoColor=white" /> <img src="https://img.shields.io/badge/-graphql-lightgrey?style=flat-square&logo=GraphQL&logoColor=white" /> <br /> <img src="https://img.shields.io/badge/-emotion-ff69b4?style=flat-square" />
 <br/><br/>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwon&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 👸 Me </h2>
 
